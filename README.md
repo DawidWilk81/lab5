@@ -3,5 +3,6 @@
 
 ![Wiewiorka](wiewiorka.jpg)
 
-Po dodaniu kontrastu
+<h2>Po dodaniu kontrastu</h2>
+
 ![Wiewiorka](wiewiorkaKontrast.jpg)
